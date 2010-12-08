@@ -1,1 +1,2 @@
-// fix me //
+a redis like server written by golang.
+redis protocol compatibility.   
